@@ -191,3 +191,27 @@ Devkit is now available.
 Active Development
 Experimental
 100% Assembly
+
+## License Notice
+
+Z.eSystem is licensed under the Mozilla Public License 2.0 (MPL 2.0).
+
+You are free to:
+
+* Use the project
+* Modify the source code
+* Redistribute copies
+* Create extensions and applications
+
+However, the following conditions apply:
+
+* Modified files from Z.eSystem must remain open-source under MPL 2.0.
+* Original copyright notices must be preserved.
+* Core Z.eSystem source files cannot be relicensed as fully proprietary if modified directly.
+
+Third-party modules, plugins, and separate applications may use different licenses as long as they do not directly replace or hide MPL-covered source files.
+
+This project is provided “as is”, without warranty of any kind.
+
+By using, modifying, or distributing Z.eSystem, you agree to comply with the MPL 2.0 license terms.
+
